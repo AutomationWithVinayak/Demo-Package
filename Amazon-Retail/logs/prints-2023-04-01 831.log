@@ -1,0 +1,17 @@
+INFO  | 2023-04-01 00:12:40 | [main] test.ListenersClass (ListenersClass.java:28) - Execution Start >> [TestClass name=class com.ecom.amazon.test.AppTest] > demo
+INFO  | 2023-04-01 00:12:56 | [main] test.ListenersClass (ListenersClass.java:38) -   Test PASS  >> [TestClass name=class com.ecom.amazon.test.AppTest] > demo
+INFO  | 2023-04-01 00:12:56 | [main] test.ListenersClass (ListenersClass.java:123) - 
+------------------------------------
+---------VINAYAK-FRAMEWORK----------
+------------------------------------
+------------------------------------
+--------Execution_Completed---------
+------------------------------------
+------------------------------------
+-------------Amazon-----------------
+------------------------------------
+----------------*-------------------
+------------------------------------
+------------------------------------
+------------------------------------
+------------------------------------
